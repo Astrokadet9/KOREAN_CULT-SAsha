@@ -1,0 +1,168 @@
+h1 {
+    font-size: 40px;
+    background-color: #edff95;
+    padding: 10px;
+    border-radius: 20px;
+    color: #b10202;
+    text-align: center;
+}
+
+
+.traditional {
+    font-size: 35px;
+    background-color: #f2ffaf;
+    padding: 10px;
+    border-radius: 20px;
+    color:#ab0000;
+    text-align: center;
+}
+
+.games {
+    font-size: 30px;
+    background-color: #d6edff;
+    padding: 10px;
+    border-radius: 20px;
+    color:#0000ab;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    padding: 10px;
+    color:black;
+
+}
+
+.game {
+    background-color: #ffd6d6;
+}
+
+
+.gongs {
+    background-color: #dbe6eb;
+}
+
+.takchi {
+    background-color: #ebdbdb;
+}
+
+
+.gongy {
+    left:23px;
+    top: 1700px;
+    width: 250px;
+}
+
+.hato {
+    background-color: #f1f1ff;
+}
+
+.chet-nechet {
+    background-color: #e2f9ff;
+}
+
+.takche {
+    left:570px;
+    top: 1730px;
+    width: 320px;
+}
+
+
+.huto {
+    position: absolute;
+    left:450px;
+    top: 1800px;
+    width: 350px;
+}
+
+
+.chet-nichet {
+    left:270px;
+    top: 1780px;
+    width: 320px;
+}
+
+.music {
+    background-color: hsl(276, 100%, 97%);
+}
+
+
+.obuchai {
+    background-color: hsl(102, 57%, 95%);
+}
+
+
+.narid {
+    width: 320px;
+}
+
+
+.product {
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double rgb(255, 173, 173);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: rgb(255, 232, 232);
+}
+
+
+
+nav {
+  background-color: #cef2ff;
+  border-radius: 15px;
+  font-size: 25px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  color: black;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #424ef0;
+  color: white;
+  border-radius: 15px;
+}
+
+
+.hanbock {
+    border: solid 1px rgb(255, 173, 173);
+}
+
+
+.footer {
+    font-size: 21px;
+    background-color: #fdffe8;
+}
+
+footer {
+    border: 2px solid rgb(255, 242, 54) ;
+    background-color: #fdffc0;
+    border-radius: 15px;
+}
+
+footer:hover {
+    border: 2px solid rgb(255, 78, 152) ;
+    background-color: #ffd3f0;
+    border-radius: 15px;
+}
+
+
+.footer:hover {
+    font-size: 21px;
+    background-color: #ffeff8;
+}
